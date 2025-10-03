@@ -1,0 +1,71 @@
+{
+  "presentationChannelId": "1422996034660995093",
+  "targetChannelId": "1423623282598350858",
+  "logChannelId": "1422984782681215018",
+  "moderationEnabled": true,
+  "moderationChannelId": "1422984781062213806",
+  "panelMessageId": "1423696618649288856",
+  "rateLimitSeconds": 30,
+  "maxDescriptionLength": 1000,
+  "allowedMediaHosts": [
+    "media.tenor.com",
+    "i.imgur.com",
+    "cdn.discordapp.com"
+  ],
+  "templates": [
+    {
+      "id": "clean",
+      "nome": "Clássico Limpo",
+      "descricao": "Layout simples com título e descrição.",
+      "color": 5793266
+    },
+    {
+      "id": "dark",
+      "nome": "Escuro Neon",
+      "descricao": "Fundo escuro com cor forte.",
+      "color": 16711884
+    },
+    {
+      "id": "nature",
+      "nome": "Verde Natureza",
+      "descricao": "Tons verdes para uma apresentação calma e orgânica.",
+      "color": 3066993
+    },
+    {
+      "id": "sunset",
+      "nome": "Pôr do Sol",
+      "descricao": "Gradiente quente (laranja/rosa) estilizado.",
+      "color": 15844367
+    },
+    {
+      "id": "ocean",
+      "nome": "Mar Profundo",
+      "descricao": "Azul profundo com sensação de profundidade.",
+      "color": 3447003
+    },
+    {
+      "id": "royal",
+      "nome": "Roxo Real",
+      "descricao": "Estilo elegante em roxo intenso.",
+      "color": 10181046
+    },
+    {
+      "id": "alert",
+      "nome": "Vermelho Impacto",
+      "descricao": "Cor vibrante para perfis marcantes.",
+      "color": 15158332
+    },
+    {
+      "id": "mono",
+      "nome": "Monocromático",
+      "descricao": "Neutro, minimalista e discreto.",
+      "color": 9807270
+    }
+  ],
+  "compactMode": false,
+  "tempChannelTTLSeconds": 300,
+  "tempMediaCategoryId": "1423607921878634607",
+  "targetChannelBoysId": "1423685549637505206",
+  "targetChannelGirlsId": "1423685278450581585",
+  "autoDeleteHelperSeconds": 30
+}
